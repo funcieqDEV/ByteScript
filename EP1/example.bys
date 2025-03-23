@@ -1,0 +1,12 @@
+﻿# comment
+
+#variables
+
+name = "my name is Jakub";
+
+#functions
+
+fun add(a,b){
+	ret a+b;
+}
+
